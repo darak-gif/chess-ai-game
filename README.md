@@ -59,7 +59,7 @@ Here are some screenshots from the game:
 - `ai/` - Implements AI with the Minimax algorithm
 - `images/` - Stores images for the game
 - `sounds/` - Stores sounds for the game
-- `ranglist.txt` - 
+- `ranglist.txt` - Data of the users
 - `requirements.txt` - Lists required dependencies
 
 ## License
