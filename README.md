@@ -12,8 +12,8 @@ Before running the project, you need to install the required dependencies. The o
 ### Installation
 1. **Clone the repository:**
    ```sh
-   git clone <repository_url>
-   cd <repository_folder>
+   git clone https://github.com/darak-gif/chess-ai-game
+   cd chess-ai-game
    ```
 2. **Install dependencies:**
    ```sh
