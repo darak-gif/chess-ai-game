@@ -45,7 +45,7 @@ Here are some screenshots from the game:
 ### Gameplay
 ![Gameplay](screenshots/gameplay.png)
 
-### Ranglist
+### Ranklist
 ![Main Menu](screenshots/ranglist.png)
 
 ### Game Over
