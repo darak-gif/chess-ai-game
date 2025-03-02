@@ -46,7 +46,7 @@ Here are some screenshots from the game:
 ![Gameplay](screenshots/gameplay.png)
 
 ### Ranklist
-![Main Menu](screenshots/ranglist.png)
+![Main Menu](screenshots/ranklist.png)
 
 ### Game Over
 ![Gameplay](screenshots/game_over.png)
@@ -59,7 +59,7 @@ Here are some screenshots from the game:
 - `ai/` - Implements AI with the Minimax algorithm
 - `images/` - Stores images for the game
 - `sounds/` - Stores sounds for the game
-- `ranglist.txt` - Data of the users
+- `ranklist.txt` - Data of the users
 - `requirements.txt` - Lists required dependencies
 
 ## License
