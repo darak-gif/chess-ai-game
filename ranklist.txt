@@ -1,0 +1,5 @@
+Ivanka,236,1448
+darak,12345,1416
+AI.EASY,none,1200
+petar,2fss3,1200
+hana,montana,1200
